@@ -1,0 +1,18 @@
+{
+  "files": {
+    "macro_indicators.csv": {
+      "rows": 114,
+      "nulls_fixed": 5
+    },
+    "train.csv": {
+      "raw_rows": 248248,
+      "duplicate_record_ids_removed": 3682,
+      "customer_variants_collapsed": 208,
+      "clean_customer_count": 12,
+      "currency_or_price_outliers_fixed": 37321,
+      "revenue_reconciled_rows": 2007,
+      "missing_units_imputed": 3544,
+      "final_clean_rows": 244497
+    }
+  }
+}
